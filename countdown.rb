@@ -14,4 +14,4 @@ def countdown_with_sleep
       # break
 end
 
-countdown_with_sleep(5)
+countdown_with_sleep
