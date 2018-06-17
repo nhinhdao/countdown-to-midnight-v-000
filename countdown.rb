@@ -13,3 +13,5 @@ def countdown_with_sleep(second)
       sleep #{second}
       # break
 end
+
+countdown_with_sleep(5)
