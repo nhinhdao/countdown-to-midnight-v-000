@@ -2,9 +2,9 @@
 
 def countdown(time)
       loop do
-            print "#{time} SECONDS"
+            puts "#{time} SECOND(S)!"
             time -= 1
-            break if time == 1
+            break if time == 0
       end
       "HAPPY NEW YEAR!"
 end
